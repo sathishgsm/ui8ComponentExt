@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <g id="calendar-date-2" transform="translate(-0.061 -0.061)">
+    <path id="Combined_Shape" data-name="Combined Shape" d="M.875,14A.875.875,0,0,1,0,13.125V2.625A.875.875,0,0,1,.875,1.75h1.75V0H5.25V1.75h3.5V0h2.625V1.75h1.751A.875.875,0,0,1,14,2.625v10.5a.875.875,0,0,1-.875.875Zm.875-1.75h10.5V4.375H1.75ZM6.125,7.875V6.125h1.75v1.75Zm-2.625,0V6.125H5.25v1.75Z" transform="translate(0.061 0.061)" fill="#656565"/>
+  </g>
+</svg>

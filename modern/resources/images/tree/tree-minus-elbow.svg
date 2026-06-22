@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.5" height="25.899" viewBox="0 0 21.5 25.899">
+  <g id="tree-minus-elbow" transform="translate(18917 16384)">
+    <rect id="Rectangle_1245" data-name="Rectangle 1245" width="1.01" height="20" transform="translate(-18912.004 -16379.102)" fill="#d6d6d6" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    <rect id="Rectangle_1246" data-name="Rectangle 1246" width="16.005" height="1" transform="translate(-18912.004 -16359.601)" fill="#d6d6d6" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Rectangle_1767" data-name="Rectangle 1767" transform="translate(-18917 -16384)" fill="#fff" stroke="#7e7e7e" stroke-width="0.5">
+      <rect width="11" height="11" rx="2" stroke="none"/>
+      <rect x="0.25" y="0.25" width="10.5" height="10.5" rx="1.75" fill="none"/>
+    </g>
+    <rect id="Rectangle_1768" data-name="Rectangle 1768" width="5" height="1" transform="translate(-18914 -16379)" fill="#7e7e7e"/>
+  </g>
+</svg>

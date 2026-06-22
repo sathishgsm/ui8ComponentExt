@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="11" height="18" viewBox="0 0 11 18">
+  <g id="tree-minus-line" transform="translate(18937 16403)">
+    <rect id="Rectangle_1" data-name="Rectangle 1" width="1.01" height="7" transform="translate(-18932.004 -16392.5)" fill="#d6d6d6" stroke="rgba(0,0,0,0)" stroke-miterlimit="10" stroke-width="1"/>
+    <g id="Rectangle_1240" data-name="Rectangle 1240" transform="translate(-18937 -16403)" fill="#fff" stroke="#7e7e7e" stroke-width="0.5">
+      <rect width="11" height="11" rx="2" stroke="none"/>
+      <rect x="0.25" y="0.25" width="10.5" height="10.5" rx="1.75" fill="none"/>
+    </g>
+    <rect id="Rectangle_1241" data-name="Rectangle 1241" width="5" height="1" transform="translate(-18934 -16398)" fill="#7e7e7e"/>
+  </g>
+</svg>
