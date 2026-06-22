@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="35" height="35" viewBox="0 0 35 35">
   <g id="Group_15733" data-name="Group 15733" transform="translate(2542.5 16578.5)">
     <g id="Group_64" data-name="Group 64" transform="translate(-2541 -16577)">
-      <circle id="Ellipse_27" data-name="Ellipse 27" cx="16" cy="16" r="16" transform="translate(0)" fill="transparent" stroke="#33A1D9" stroke-width="3"/>
+      <circle id="Ellipse_27" data-name="Ellipse 27" cx="16" cy="16" r="16" transform="translate(0)" fill="transparent" stroke="#6583b7" stroke-width="3"/>
     </g>
     <g id="Group_65" data-name="Group 65" transform="translate(-2531.889 -16570.611)">
-      <rect id="Rectangle_13" data-name="Rectangle 13" width="3.568" height="3.419" transform="translate(4.593 15.305)" fill="#33A1D9"/>
-      <path id="Path_24" data-name="Path 24" d="M15.593,4.007a6.739,6.739,0,0,0-4.609-1.66,5.981,5.981,0,0,0-4.426,1.66A7.945,7.945,0,0,0,4.16,8.8l3.873.553c.185-2.4,1.106-3.5,2.766-3.5a2.094,2.094,0,0,1,1.475.553,1.8,1.8,0,0,1,.738,1.66,3.5,3.5,0,0,1-.368,1.476,5.507,5.507,0,0,1-1.476,1.29,6.837,6.837,0,0,0-2.028,1.845,9.111,9.111,0,0,0-.368,3.134v.738h3.5a3.965,3.965,0,0,1,.37-1.845,4.483,4.483,0,0,1,1.66-1.475c2.028-1.475,3.134-3.134,3.134-5.164A4.974,4.974,0,0,0,15.593,4.007Z" transform="translate(-4.16 -2.347)" fill="#33A1D9"/>
+      <rect id="Rectangle_13" data-name="Rectangle 13" width="3.568" height="3.419" transform="translate(4.593 15.305)" fill="#6583b7"/>
+      <path id="Path_24" data-name="Path 24" d="M15.593,4.007a6.739,6.739,0,0,0-4.609-1.66,5.981,5.981,0,0,0-4.426,1.66A7.945,7.945,0,0,0,4.16,8.8l3.873.553c.185-2.4,1.106-3.5,2.766-3.5a2.094,2.094,0,0,1,1.475.553,1.8,1.8,0,0,1,.738,1.66,3.5,3.5,0,0,1-.368,1.476,5.507,5.507,0,0,1-1.476,1.29,6.837,6.837,0,0,0-2.028,1.845,9.111,9.111,0,0,0-.368,3.134v.738h3.5a3.965,3.965,0,0,1,.37-1.845,4.483,4.483,0,0,1,1.66-1.475c2.028-1.475,3.134-3.134,3.134-5.164A4.974,4.974,0,0,0,15.593,4.007Z" transform="translate(-4.16 -2.347)" fill="#6583b7"/>
     </g>
   </g>
 </svg>
